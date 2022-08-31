@@ -7,7 +7,7 @@ The repo contains the benchmark models, datasets and results for the following p
 
 > 1. Datasets
 	
-	>> *[Adult Census] (AdultNoteBook/Data)
-	>> *[Bank Marketing] (BankMarketingNoteBook/Data)
-	>> *[Titanic] (Titanic/Data)
-	>> *[German Credit](GermanCredit/Data)
+	>> * [Adult Census](AdultNoteBook/Data)
+	>> * [Bank Marketing](BankMarketingNoteBook/Data)
+	>> * [Titanic](Titanic/Data)
+	>> * [German Credit](GermanCredit/Data)
