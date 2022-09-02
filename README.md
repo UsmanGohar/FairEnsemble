@@ -21,7 +21,7 @@ The repo contains the benchmark models, datasets and results for the following p
 		- [German Credit](GermanCredit/Kernels) <br>
 
 > 3. Results
-	- For verification and validation of results, we provide the exact train/test splits, saved model (.pkl) and measures in a .csv. Note: Due to randomization in some models might not reproduce exact output. 
+	- For verification and validation of results, we provide the exact train/test splits, saved model (.pkl) and measures in a .csv. Note: Due to randomization in some models, output might vary a bit. We take mean of 10 runs to reduce the variance <br>
 		- [Adult Census](https://gitlab.com/anonymousdot/fair-ensemble/-/tree/main/AdultNoteBook/Results) <br>
 		- [Bank Marketing](BankMarketingNoteBook/Results) <br>
 		- [Titanic](Titanic/Results) <br>
