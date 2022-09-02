@@ -12,3 +12,18 @@ The repo contains the benchmark models, datasets and results for the following p
 	- [Bank Marketing](BankMarketingNoteBook/Data) <br>
 	- [Titanic](Titanic/Data) <br>
 	- [German Credit](GermanCredit/Data) <br>
+
+> 2. Benchmark
+	- All the ensemble models used in the study and their scripts are shared in the following directories: <br>
+		- [Adult Census](https://gitlab.com/anonymousdot/fair-ensemble/-/tree/main/AdultNoteBook/Kernels) <br>
+		- [Bank Marketing](BankMarketingNoteBook/Kernels) <br>
+		- [Titanic](Titanic/Kernels) <br>
+		- [German Credit](GermanCredit/Kernels) <br>
+
+> 3. Results
+	- For verification and validation of results, we provide the exact train/test splits, saved model (.pkl) and measures in a .csv. Note: Due to randomization in some models might not reproduce exact output. 
+		- [Adult Census](https://gitlab.com/anonymousdot/fair-ensemble/-/tree/main/AdultNoteBook/Results) <br>
+		- [Bank Marketing](BankMarketingNoteBook/Results) <br>
+		- [Titanic](Titanic/Results) <br>
+		- [German Credit](GermanCredit/Results) <br>
+
