@@ -11,8 +11,6 @@ E.g. to generate fairness and accuracy report for the Gradient Boosting Model "6
 
 python3 evaluate.py "Titanic/Results/GBC/6-titanic-best-working-classifier.pkl"
 
-The code is available on Zenodo: https://zenodo.org/record/7647900#.Y-70eOzMJjV
-
 
 ## Index
 
