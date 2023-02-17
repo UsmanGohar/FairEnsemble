@@ -1,3 +1,5 @@
+Due to size of the dataset, the complete artifact with the dataset can be download from Zenodo (https://zenodo.org/record/7647900#.Y-70eOzMJjV)
+
 # Fair Ensembles
 The repo contains the benchmark models, datasets and results for the following paper submission at ICSE 2023.
 
